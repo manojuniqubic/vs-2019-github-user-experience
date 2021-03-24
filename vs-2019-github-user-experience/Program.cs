@@ -13,6 +13,8 @@ namespace vs_2019_github_user_experience
     {
         public static void Main(string[] args)
         {
+            System.Console.WriteLine("Hii there, this is first change");
+
             CreateHostBuilder(args).Build().Run();
         }
 
